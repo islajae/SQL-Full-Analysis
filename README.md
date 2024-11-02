@@ -9,7 +9,7 @@ The data provided comes from [NOAA, Climate Data Online](https://www.ncei.noaa.g
 
 The risk of extreme weather events such as droughts, floods, and hurricanes is expected to rise which complicates resource planning, insurance costs, and operational stability. Additionally, regulatory pressures are likely to grow as governments strive to meet international climate goals. To address this, companies are adopting predictive analytics and data-driven models to assess future climate risks and implement adaptive strategies. For example, agricultural companies could leverage climate data to optimize crop selection, while insurers can refine risk assessments based on location-specific climate forecasts. These predictive tools enable businesses to make informed decisions that reduce their carbon footprint, mitigate risks, and improve resilience to climate impacts.
 
-It also raises the question for businesses. 
+It raises the question for businesses. 
 <b> 
 - What is causing the climate to drastically change overtime? 
 - What areas are being affected the most?
@@ -22,15 +22,16 @@ It also raises the question for businesses.
 <h2> Data Cleaning </h2>
 
 I cleaned over 16 .csv files from National Centers For Environmental Information (NOAA) using Google Sheets, eliminating unnecessary data, filling in empty slots, and reorganizing before importing 10 tables to BigQuery.
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7. 
+8. Precipitation: Contains monthly precipitation observations for all countries, consisting of 7 columns and 195 rows.
+9.
+10.
 
 
