@@ -7,11 +7,14 @@ The data provided comes from [NOAA, Climate Data Online](https://www.kaggle.com/
 
 <h2> Business Problem/Solution </h2>
 
-It also raises the question for companies. 
+The risk of extreme weather events, such as droughts, floods, and hurricanes, is expected to rise, which complicates resource planning, insurance costs, and operational stability. Additionally, regulatory pressures are likely to grow as governments strive to meet international climate goals. To address this, companies are adopting predictive analytics and AI-driven models to assess future climate risks and implement adaptive strategies. For instance, agricultural companies could leverage climate data to optimize crop selection, while insurers can refine risk assessments based on location-specific climate forecasts. These predictive tools enable businesses to make informed decisions that reduce their carbon footprint, mitigate risks, and improve resilience to climate impacts.
+
+It also raises the question for businesses. 
 <b> 
 - What is causing the climate to drastically change overtime? 
 - What areas are being affected the most?
 - What natural disaster will be the main concern as the climate changes?
+- How does one prepare for what's to come?
 </b>
 
 ![6ecface122f0a1ea71a440918156a919](https://github.com/user-attachments/assets/443c4d0c-7df8-4eeb-ae3a-a466d6a9cb5c)
