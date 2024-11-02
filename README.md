@@ -9,5 +9,6 @@ The data provided comes from [NOAA, Climate Data Online](https://www.kaggle.com/
 
 It also raises the question. What is causing the climate to drastically change overtime? What is the root cause of natural disasters rising?
 
-![f7928f64423961302b9c1532ca0942c5](https://github.com/user-attachments/assets/e178f018-40a1-473c-81fb-8c9cd638a59b)
+![6ecface122f0a1ea71a440918156a919](https://github.com/user-attachments/assets/443c4d0c-7df8-4eeb-ae3a-a466d6a9cb5c)
+
 
