@@ -1,5 +1,6 @@
 <h1> Rise in Global Temperatures & Predictions by 2040 </h1>
 
-![6ecface122f0a1ea71a440918156a919](https://github.com/user-attachments/assets/584e5ace-c33c-4a8a-94fd-f35e2f38d560)
+![b57be4aaf0e4679a35924d2a8d60432e](https://github.com/user-attachments/assets/3a92f6ee-a11d-4e23-99ca-8dbf54e11aae)
+
 
 
