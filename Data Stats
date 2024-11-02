@@ -12,12 +12,30 @@ FROM flooding.data
 INNER JOIN countries
 ON flooding_feedback.country_id = country.id
 WHERE sea_levels > 2.5
-GROUP BY red_countries
+GROUP BY affected_countries
 ORDER BY total_countries desc;
 
 -- 2. What areas will experience the most heat stress?
+SELECT
+  country.name as country,
+  count(country.id) as total_countries
+FROM heatstress.data
+INNER JOIN countries
+ON heat_feedback.country_id = country.id
+WHERE heat_index > 4
+GROUP BY affected_countries
+ORDER BY total_countries desc;
 
 -- 3. What areas will experience the most water stress?
+SELECT
+  country.name as country,
+  count(country.id) as total_countries
+FROM waterstress.data
+INNER JOIN countries
+ON water_feedback.country_id = country.id
+WHERE water_level > 5
+GROUP BY affected_countries
+ORDER BY total_countries desc;
 
 -- 4. What areas will experience the most wildfires?
 
