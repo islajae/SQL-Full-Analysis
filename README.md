@@ -8,9 +8,11 @@ The data provided comes from [NOAA, Climate Data Online](https://www.kaggle.com/
 <h2> Business Problem/Solution </h2>
 
 It also raises the question for companies. 
-<b> What is causing the climate to drastically change overtime? 
+<b> 
+What is causing the climate to drastically change overtime? 
 What areas are being affected the most?
-What natural disaster will be </b>
+What natural disaster will be the main concern as the climate changes?
+</b>
 
 ![6ecface122f0a1ea71a440918156a919](https://github.com/user-attachments/assets/443c4d0c-7df8-4eeb-ae3a-a466d6a9cb5c)
 
