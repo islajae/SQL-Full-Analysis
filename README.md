@@ -23,15 +23,15 @@ It raises the question for businesses.
 
 I cleaned over 16 .csv files from National Centers For Environmental Information (NOAA) using Google Sheets, eliminating unnecessary data, filling in empty slots, and reorganizing before importing 10 tables to BigQuery.
 
-1.
-2.
-3.
-4.
-5.
-6.
-7. 
-8. Precipitation: Contains monthly precipitation observations for all countries, consisting of 7 columns and 195 rows.
-9.
-10.
+1. normals_monthly:
+2. local_climatological_data:
+3. flooding: contains monthly precipitation observations for all countries, consisting of 7 columns and 195 rows.
+4. heat_stress:
+5. water_stress:
+6. wildfires:
+7. hurricane_typhoons:
+8. sea_level_rise:
+9. temperature_change: 
+10. snowfall_index: rating scale factors in population, snowfall amounts, and storm coverage in select locations, consisting of 5 columns and 148 rows.
 
 
