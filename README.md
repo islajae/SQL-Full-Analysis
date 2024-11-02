@@ -30,8 +30,8 @@ I cleaned over 16 .csv files from National Centers For Environmental Information
 5. <b>water_stress:</b> areas with higher exposure to water related risks, consisting of 3 colummns and 37 rows.
 6. <b>wildfires:</b> weather conditions associated with wildfires, consisting of 4 columns and 90 rows.
 7. <b>hurricane_typhoons:</b> areas that are most vulnerable to hurricanes and typhoons, 4 columns and 56 rows.
-8. sea_level_rise: data showing areas being affected as sea levels rise, consisting of 6 columns, and 165 rows.
-9. temperature_change: exposure to climate impacts, resilience, greenhouse gas emissions, and energy use, consisting of 9 columns and 195 rows.
-10. snowfall_index: rating scale factors in population, snowfall amounts, and storm coverage in select locations, consisting of 5 columns and 148 rows.
+8. <b>sea_level_rise:</b> data showing areas being affected as sea levels rise, consisting of 6 columns, and 165 rows.
+9. <b>temperature_change:</b> exposure to climate impacts, resilience, greenhouse gas emissions, and energy use, consisting of 9 columns and 195 rows.
+10. <b>snowfall_index:</b> rating scale factors in population, snowfall amounts, and storm coverage in select locations, consisting of 5 columns and 148 rows.
 
 
