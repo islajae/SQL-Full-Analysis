@@ -24,12 +24,12 @@ It raises the question for businesses.
 I cleaned over 16 .csv files from National Centers For Environmental Information (NOAA) using Google Sheets, eliminating unnecessary data, filling in empty slots, and reorganizing before importing 10 tables to BigQuery.
 
 1. <b>normals_monthly:</b> monthly typical climate conditions for thousands of locations across select locations, consisting of 8 columns and 163 rows.
-2. local_climatological_data: summary of daily extremes and averages of temperature, degree days, weather, sea level pressure, and extreme wind speeds.
-3. flooding: monthly precipitation observations for all countries, consisting of 7 columns and 195 rows.
-4. heat_stress: areas with higher exposure to heat related risks, consisting of 3 colummns and 56 rows.
-5. water_stress: areas with higher exposure to water related risks, consisting of 3 colummns and 37 rows.
-6. wildfires: weather conditions associated with wildfires, consisting of 4 columns and 90 rows.
-7. hurricane_typhoons: areas that are most vulnerable to hurricanes and typhoons, 4 columns and 56 rows.
+2. <b>local_climatological_data:</b> summary of daily extremes and averages of temperature, degree days, weather, sea level pressure, and extreme wind speeds.
+3. <b>flooding:</b> monthly precipitation observations for all countries, consisting of 7 columns and 195 rows.
+4. <b>heat_stress:</b> areas with higher exposure to heat related risks, consisting of 3 colummns and 56 rows.
+5. <b>water_stress:</b> areas with higher exposure to water related risks, consisting of 3 colummns and 37 rows.
+6. <b>wildfires:</b> weather conditions associated with wildfires, consisting of 4 columns and 90 rows.
+7. <b>hurricane_typhoons:</b> areas that are most vulnerable to hurricanes and typhoons, 4 columns and 56 rows.
 8. sea_level_rise: data showing areas being affected as sea levels rise, consisting of 6 columns, and 165 rows.
 9. temperature_change: exposure to climate impacts, resilience, greenhouse gas emissions, and energy use, consisting of 9 columns and 195 rows.
 10. snowfall_index: rating scale factors in population, snowfall amounts, and storm coverage in select locations, consisting of 5 columns and 148 rows.
