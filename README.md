@@ -3,7 +3,7 @@
 ![b57be4aaf0e4679a35924d2a8d60432e](https://github.com/user-attachments/assets/3a92f6ee-a11d-4e23-99ca-8dbf54e11aae)
 
 <h2> Data Source </h2>
-The data provided comes from [NOAA, Climate Data Online](https://www.ncei.noaa.gov/cdo-web/datasets), which gives all types of data from the past and future predictions.
+The data provided comes from [NOAA, Climate Data Online](https://www.ncei.noaa.gov/cdo-web/datasets/), which gives all types of data from the past and future predictions.
 
 <h2> Business Problem/Solution </h2>
 
@@ -23,9 +23,9 @@ It raises the question for businesses.
 
 I cleaned over 16 .csv files from National Centers For Environmental Information (NOAA) using Google Sheets, eliminating unnecessary data, filling in empty slots, and reorganizing before importing 10 tables to BigQuery.
 
-1. normals_monthly:
-2. local_climatological_data:
-3. flooding: contains monthly precipitation observations for all countries, consisting of 7 columns and 195 rows.
+1. normals_monthly: monthly typical climate conditions for thousands of locations across select locations, consisting of 8 columns and 163 rows.
+2. local_climatological_data: 
+3. flooding: monthly precipitation observations for all countries, consisting of 7 columns and 195 rows.
 4. heat_stress:
 5. water_stress:
 6. wildfires:
