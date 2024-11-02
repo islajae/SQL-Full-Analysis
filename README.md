@@ -21,16 +21,16 @@ It also raises the question for businesses.
 
 <h2> Data Cleaning </h2>
 
-I cleaned over 16 .csv files from National Centers For Environmental Information (NOAA) using Google Sheets, eliminating unnecessary data, filling empty slots, and reorganizing before importing 10 tables to BigQuery.
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+I cleaned over 16 .csv files from National Centers For Environmental Information (NOAA) using Google Sheets, eliminating unnecessary data, filling in empty slots, and reorganizing before importing 10 tables to BigQuery.
+- 1.
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
+- 7.
+- 8.
+- 9.
+- 10.
 
 
