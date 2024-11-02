@@ -1,1 +1,24 @@
--- 
+-- Dataset: Rise in Global Temperatures
+-- Source: NOAA Data Online
+-- Quieried with: BigQuery
+
+Climate Questions
+
+-- 1. What areas will experience the most flooding?
+SELECT
+  country.name as country,
+  count(country.id) as total_countries
+FROM flooding.data
+INNER JOIN countries
+ON flooding_feedback.country_id = country.id
+WHERE sea_levels > 2.5
+GROUP BY red_countries
+ORDER BY total_countries desc;
+
+-- 2. What areas will experience the most heat stress?
+
+-- 3. What areas will experience the most water stress?
+
+-- 4. What areas will experience the most wildfires?
+
+-- 5. What areas will experience the most hurricanes?
