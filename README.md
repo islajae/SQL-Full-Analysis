@@ -23,7 +23,7 @@ It raises the question for businesses.
 
 I cleaned over 16 .csv files from National Centers For Environmental Information (NOAA) using Google Sheets, eliminating unnecessary data, filling in empty slots, and reorganizing before importing 10 tables to BigQuery.
 
-1. normals_monthly: monthly typical climate conditions for thousands of locations across select locations, consisting of 8 columns and 163 rows.
+1. <b>normals_monthly:</b> monthly typical climate conditions for thousands of locations across select locations, consisting of 8 columns and 163 rows.
 2. local_climatological_data: summary of daily extremes and averages of temperature, degree days, weather, sea level pressure, and extreme wind speeds.
 3. flooding: monthly precipitation observations for all countries, consisting of 7 columns and 195 rows.
 4. heat_stress: areas with higher exposure to heat related risks, consisting of 3 colummns and 56 rows.
