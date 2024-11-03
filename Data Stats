@@ -38,5 +38,23 @@ GROUP BY affected_countries
 ORDER BY total_countries desc;
 
 -- 4. What areas will experience the most wildfires?
+SELECT
+  country.name as country,
+  count(country.id) as total_countries
+FROM wildfires.data
+INNER JOIN countries
+ON fire_feedback.country_id = country.id
+WHERE drought_level > 2.5
+GROUP BY affected_countries
+ORDER BY total_countries desc;
 
 -- 5. What areas will experience the most hurricanes?
+SELECT
+  country.name as country,
+  count(country.id) as total_countries
+FROM hurricanes.data
+INNER JOIN countries
+ON precipitation_feedback.country_id = country.id
+WHERE landfall_chance > 5
+GROUP BY affected_countries
+ORDER BY total_countries desc;
